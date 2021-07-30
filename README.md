@@ -1,3 +1,10 @@
+## Hello, I'm Vítor Biazotti
+
+<ul>
+     <li>🖥️ Work with Site Reliability Engineer and graduated in Systems Analysis and Development
+     <li>🎯 I love automating my tasks.
+</ul>
+
 <div>
   <a href="https://github.com/vitorbiazotti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorbiazotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,7 +36,6 @@
   <a href = "mailto:vitorbiazotti2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/vitorbiazotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-    
   ![Snake animation](https://github.com/vitorbiazotti/vitorbiazotti/blob/output/github-contribution-grid-snake.svg)
  
 </div>
