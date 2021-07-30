@@ -1,7 +1,7 @@
 ## Hello, I'm Vítor Biazotti
 
 <ul>
-     <li>🖥️ Work with Site Reliability Engineer and graduated in Systems Analysis and Development
+     <li>🖥️ Work with Site Reliability Engineer and graduated in Systems Analysis and Development.
      <li>🎯 I love automating my tasks.
 </ul>
 
